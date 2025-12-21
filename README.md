@@ -11,3 +11,8 @@
 ## :earth_asia: Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k7a-tomohiro&show_icons=true&langs_count=8&layout=compact&hide_border=true)](https://github.com/k7a-tomohiro)
+
+
+## Support
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/tomohiro)
