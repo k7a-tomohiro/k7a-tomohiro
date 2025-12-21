@@ -1,5 +1,7 @@
 # k7a-tomohiro's profile
 
+**Visit my personal website: [k7a-tomohiro.github.io](https://k7a-tomohiro.github.io/)**
+
 ## :bar_chart: Stats
 
 [![k7a-tomohiro's GitHub Status](https://github-readme-stats.vercel.app/api?username=k7a-tomohiro&show_icons=true&hide_border=true)](https://github.com/k7a-tomohiro)
