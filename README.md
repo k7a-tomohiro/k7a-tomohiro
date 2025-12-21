@@ -1,8 +1,4 @@
-## k7a-tomohiro's profile
-
-## :trophy: Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=k7a-tomohiro&no-frame=true&margin-w=10)](https://github.com/k7a-tomohiro)
+# k7a-tomohiro's profile
 
 ## :bar_chart: Stats
 
