@@ -15,6 +15,6 @@
 
 ## Support
 
-[!["GitHub Sponsor"](./image/funding-githubsponsor.png)](https://www.buymeacoffee.com/tomohiro)
+[!["GitHub Sponsor"](./image/funding-githubsponsor.png)](https://github.com/sponsors/k7a-tomohiro)
 
 [!["Buy Me A Coffee"](./image/funding-buymeacoffee.png)](https://www.buymeacoffee.com/tomohiro)
