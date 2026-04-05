@@ -6,9 +6,9 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=k7a-tomohiro&theme=tokyonight_duo&hide_border=true)](http://github-readme-streak-stats.herokuapp.com?user=k7a-tomohiro&theme=tokyonight_duo&hide_border=true)
 
-<img width=500 align="center" src="image/stats.svg" />
+<img width=400 align="left" src="image/stats.svg" />
 
-<img width=500 align="center" src="image/top-langs.svg" />
+<img width=400 align="left" src="image/top-langs.svg" />
 
 ## Support
 
