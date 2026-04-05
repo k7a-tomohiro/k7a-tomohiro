@@ -6,8 +6,9 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=k7a-tomohiro&theme=tokyonight_duo&hide_border=true)](http://github-readme-streak-stats.herokuapp.com?user=k7a-tomohiro&theme=tokyonight_duo&hide_border=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k7a-tomohiro&show_icons=true&langs_count=8&layout=compact&hide_border=true)](https://github-readme-stats.vercel.app/api/top-langs/?username=k7a-tomohiro&show_icons=true&langs_count=8&layout=compact&hide_border=true)
+<img width=500 align="left" src="image/stats.svg" />
 
+<img height=500 align="center" src="image/top-langs.svg" />
 
 ## Support
 
