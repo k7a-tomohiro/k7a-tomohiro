@@ -2,7 +2,7 @@ name: Github Stats
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * 1"
   workflow_dispatch:
 
 permissions:
@@ -31,13 +31,13 @@ jobs:
           path: image/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Generate pin card
-        uses: readme-tools/github-readme-stats-action@v1
-        with:
-          card: pin
-          options: username=${{ github.repository_owner }}&repo=github-readme-stats
-          path: image/pin.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+      # - name: Generate pin card
+      #   uses: readme-tools/github-readme-stats-action@v1
+      #   with:
+      #     card: pin
+      #     options: username=${{ github.repository_owner }}&repo=github-readme-stats
+      #     path: image/pin.svg
+      #     token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit cards
         run: |
